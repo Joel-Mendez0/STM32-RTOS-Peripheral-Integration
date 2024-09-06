@@ -121,3 +121,10 @@ void UPDATEMOTION(void *argument) {
 - **Timers & Interrupts**: The project uses timers and interrupts for tasks like ADC conversions, capturing input signals from the ultrasonic sensor, and generating PWM for the servo motor.
 - **LCD Updates**: Real-time data from the motion sensor and ultrasonic sensor are displayed on the LCD using dedicated RTOS threads.
 
+## Contributing
+
+Feel free to fork this repository and submit pull requests with improvements or bug fixes. Contributions are always welcome!
+
+## License
+
+This project is licensed under the MIT License.
